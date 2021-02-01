@@ -1,0 +1,8 @@
+{
+  "name": "qan5fu--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "4.1.3"
+  }
+}
